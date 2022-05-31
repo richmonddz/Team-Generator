@@ -1,0 +1,25 @@
+{
+  "name": "team-generator",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/richmonddz/Team-Generator.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/richmonddz/Team-Generator/issues"
+  },
+  "homepage": "https://github.com/richmonddz/Team-Generator#readme",
+  "dependencies": {
+    "jest": "^28.1.0"
+  }
+}
