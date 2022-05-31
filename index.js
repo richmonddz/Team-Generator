@@ -6,3 +6,12 @@ const Intern = require("./lib/Intern");
 const Manager = require("./lib/Manager");
 
 const team = [];
+
+function startTeam (){
+    function buildTeam(){
+        inqirer.prompt([{
+            type: "list",
+            message:
+        }])
+    }
+}
