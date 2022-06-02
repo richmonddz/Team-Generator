@@ -29,6 +29,8 @@ npm i
 node index.js
 ```
 
+in your terminal.
+
 ## Usage
 
 A quick and easy way to create an html file and organize a team. With sections to input user emails, github profiles and office numbers, the team generator helps structure a team for any projects.
