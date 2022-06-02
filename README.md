@@ -1,12 +1,5 @@
 # Team Generator
 
-
-
-https://user-images.githubusercontent.com/100399374/171558862-b8f6124e-3ad5-4c58-9105-38ed63ab08c0.mp4
-
-
-![alt text](https://github.com/richmonddz/Team-Generator/blob/main/teamGen.png)
-
 ## Description
 
 A node based team generator.
@@ -40,8 +33,6 @@ node index.js
 
 A quick and easy way to create an html file and organize a team. With sections to input user emails, github profiles and office numbers, the team generator helps structure a team for any projects.
 
-video link here
-
 ## Tests
 
 To run the tests enter:
@@ -51,3 +42,7 @@ npm run test
 ```
 
 in your terminal.
+
+![alt text](https://github.com/richmonddz/Team-Generator/blob/main/teamGen.png)
+
+https://user-images.githubusercontent.com/100399374/171558862-b8f6124e-3ad5-4c58-9105-38ed63ab08c0.mp4
