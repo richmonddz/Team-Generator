@@ -2,6 +2,8 @@
 
 #### Video Demo
 
+#### Screenshot
+
 ## Description
 
 A node based team generator.
@@ -23,6 +25,12 @@ A node based team generator.
 
 ```
 npm i
+```
+
+5. To start building your team initiate:
+
+```
+node index.js
 ```
 
 ## Usage
