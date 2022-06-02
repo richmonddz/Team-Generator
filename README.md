@@ -2,7 +2,7 @@
 
 #### Video Demo
 
-#### Screenshot
+![alt text](https://github.com/richmonddz/Team-Generator/blob/main/teamGen.png)
 
 ## Description
 
