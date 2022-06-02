@@ -1,6 +1,9 @@
 # Team Generator
 
-#### Video Demo
+
+
+https://user-images.githubusercontent.com/100399374/171558862-b8f6124e-3ad5-4c58-9105-38ed63ab08c0.mp4
+
 
 ![alt text](https://github.com/richmonddz/Team-Generator/blob/main/teamGen.png)
 
