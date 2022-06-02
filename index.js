@@ -55,7 +55,7 @@ function startTeam() {
         {
           type: "input",
           name: "manId",
-          message: "What is the manager's ID#?",
+          message: "What is the manager's ID #?",
         },
 
         {
@@ -67,7 +67,7 @@ function startTeam() {
         {
           type: "input",
           name: "manOfficeNumber",
-          message: "What is the manager's office#?",
+          message: "What is the manager's office #?",
         },
       ])
       .then((answers) => {
@@ -94,7 +94,7 @@ function startTeam() {
         {
           type: "input",
           name: "engId",
-          message: "What is the engineers employee ID#?",
+          message: "What is the engineers employee ID #?",
         },
 
         {
@@ -133,7 +133,7 @@ function startTeam() {
         {
           type: "input",
           name: "intId",
-          message: "What is the interns employee ID#?",
+          message: "What is the interns employee ID #?",
         },
 
         {
